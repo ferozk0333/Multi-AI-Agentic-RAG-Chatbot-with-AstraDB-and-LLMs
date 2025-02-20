@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-community
+wikipedia-api
+arxiv
+openai
+python-dotenv
+langchain
+groq
+langsmith
+langgraph 
+cassandra-driver 
+cassio
+langchain-groq 
+langchainhub 
+langchain_huggingface
