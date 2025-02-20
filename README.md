@@ -1,11 +1,10 @@
 # Multi-AI-Agentic-RAG-Chatbot-with-AstraDB-and-LLMs
 
-![Architecture Diagram] 
-![image](https://github.com/user-attachments/assets/ad385764-1e89-4ffb-b027-6bbc80d1eff3)
- 
 
 ## **Overview**  
 This project implements a **multi-agent Retrieval-Augmented Generation (RAG) chatbot** using **LangGraph** and **AstraDB**. The chatbot routes user queries to either a **vector database** (AstraDB) for pre-stored knowledge retrieval or an **external search tool** (Wikipedia) based on query relevance. Large Language Models (LLMs) handle response generation, enabling dynamic and context-aware interactions.  
+
+![image](https://github.com/user-attachments/assets/ad385764-1e89-4ffb-b027-6bbc80d1eff3)
 
 ---
 
